@@ -1,5 +1,3 @@
-# Anonimous-Project
-SCAM THE SCAMMER
 <!DOCTYPE html>
 <html lang="en">
 <head>
